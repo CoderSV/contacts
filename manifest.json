@@ -1,15 +1,6 @@
 	{
 	  "name": "Sample - OAuth Contacts",
-          "key": "-----BEGIN PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiroqwPzWzI6ifo1/G14z
-BfTiuJodkZsZVllR3KLvd25kaBjMnhpnk8TC9A3rylt8/8HxGsfgTdgReLtA8nOe
-WgqT4pBxz42anlb7RTNgAFHjc6O3zTy5L/OLKBE22upm8bSNoxtqsSE/sTUyaha6
-02vvWhryaYjOffO2SBqXduF5hTPwidkcntEerds8+QttnQtXw5eWpvt7fubum9G4
-rAP9QvTitqjNy3D1hAqnKwfilI/ZVM8KP+vS0EPdM+8yFBVKenCfVz2kCyd1eioW
-DEfD+DmnZdSN7pI0ytSKtBXEzA0YR6PLnEe3GL+m90jm2pb2A5fzxn5ttODusbHr
-iQIDAQAB
------END PUBLIC KEY-----
-"
+          "key": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiroqwPzWzI6ifo1/G14zBfTiuJodkZsZVllR3KLvd25kaBjMnhpnk8TC9A3rylt8/8HxGsfgTdgReLtA8nOeWgqT4pBxz42anlb7RTNgAFHjc6O3zTy5L/OLKBE22upm8bSNoxtqsSE/sTUyaha602vvWhryaYjOffO2SBqXduF5hTPwidkcntEerds8+QttnQtXw5eWpvt7fubum9G4rAP9QvTitqjNy3D1hAqnKwfilI/ZVM8KP+vS0EPdM+8yFBVKenCfVz2kCyd1eioWDEfD+DmnZdSN7pI0ytSKtBXEzA0YR6PLnEe3GL+m90jm2pb2A5fzxn5ttODusbHriQIDAQAB-----END PUBLIC KEY-----"
           "version": "1.0.6",
 	  "icons": { "48": "img/icon-48.png",
 	            "128": "img/icon-128.png" },
