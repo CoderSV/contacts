@@ -1,7 +1,11 @@
 	{
 	  "name": "Sample - OAuth Contacts",
-          "key": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiroqwPzWzI6ifo1/G14zBfTiuJodkZsZVllR3KLvd25kaBjMnhpnk8TC9A3rylt8/8HxGsfgTdgReLtA8nOeWgqT4pBxz42anlb7RTNgAFHjc6O3zTy5L/OLKBE22upm8bSNoxtqsSE/sTUyaha602vvWhryaYjOffO2SBqXduF5hTPwidkcntEerds8+QttnQtXw5eWpvt7fubum9G4rAP9QvTitqjNy3D1hAqnKwfilI/ZVM8KP+vS0EPdM+8yFBVKenCfVz2kCyd1eioWDEfD+DmnZdSN7pI0ytSKtBXEzA0YR6PLnEe3GL+m90jm2pb2A5fzxn5ttODusbHriQIDAQAB-----END PUBLIC KEY-----"
-          "version": "1.0.6",
+          "key": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiroqwPzWzI6ifo1/G14zBfTiuJodkZsZVllR3KLvd25kaBjMnhpnk8TC9A3rylt8/8HxGsfgTdgReLtA8nOeWgqT4pBxz42anlb7RTNgAFHjc6O3zTy5L/OLKBE22upm8bSNoxtqsSE/sTUyaha602vvWhryaYjOffO2SBqXduF5hTPwidkcntEerds8+QttnQtXw5eWpvt7fubum9G4rAP9QvTitqjNy3D1hAqnKwfilI/ZVM8KP+vS0EPdM+8yFBVKenCfVz2kCyd1eioWDEfD+DmnZdSN7pI0ytSKtBXEzA0YR6PLnEe3GL+m90jm2pb2A5fzxn5ttODusbHriQIDAQAB-----END PUBLIC KEY-----",
+          "oauth2": {
+          "client_id": "188633976099-n8jf41aego0tioorisitbgt98m32g9as.apps.googleusercontent.com",
+          "scopes":[""]
+          },
+		"version": "1.0.6",
 	  "icons": { "48": "img/icon-48.png",
 	            "128": "img/icon-128.png" },
 	  "description": "Uses OAuth to connect to Google's contacts service and display a list of your contacts.",
@@ -17,6 +21,7 @@
 	    "default_icon": "img/icon-19-off.png"
 	  },
 	  "permissions": [
+            "identity",
 	    "tabs",
 	    "http://www.google.com/m8/feeds/*",
 	    "https://www.google.com/accounts/OAuthGetRequestToken",
